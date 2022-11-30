@@ -34,7 +34,7 @@
     - name: pai233の小窝
       link: https://blog.pai233.top/
       descr: Write Down My Life.
-      avatar: https://blog.pai233.top/img/avatar.jpg  
+      avatar: https://blog.pai233.top/img/avatar.jpg 
     - name: GuKaifeng
       link: https://gukaifeng.cn/
       avatar: https://gukaifeng.cn/img/avatar.png
@@ -363,6 +363,10 @@
       link: https://blithezhu.top/
       avatar: https://blithezhu.top/img/icon.jpg
       descr: 记录入坑爬坑的博客
+    - name: SimpleBlog
+      link: https://culturesun.site/
+      avatar: https://culturesun.site/usr/uploads/2022/11/3758015352.jpg
+      descr: 记录技术的博客
     - name: Pil0tXia
       link: https://pil0txia.com/
       avatar: https://pil0txia.com/me/03_3_tinypng.png
